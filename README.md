@@ -1,1 +1,0 @@
-# umrigr_lab3
